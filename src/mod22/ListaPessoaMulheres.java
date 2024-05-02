@@ -2,6 +2,9 @@ package mod22;
 import java.util.ArrayList;
 import java.util.List;
 
+
+
+
 public class ListaPessoaMulheres {
 	 public static void main(String[] args) {
 	        
@@ -29,6 +32,13 @@ public class ListaPessoaMulheres {
 	        
 	        System.out.println("Mulheres na lista:");
 	        mulheres.forEach(System.out::println);
+	        
+	  
+	        
+	     
 	    }
+	 
+	
+		
 	}
 
